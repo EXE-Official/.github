@@ -1,0 +1,2 @@
+# Who we are?
+EXE is a dedicated group of developers committed to creating high-quality open-source and free software solutions. Our mission is to provide free and open-source alternatives for as many software projects as possible. By collaborating with talented individuals, we strive to promote transparency, innovation, and accessibility in the software community. Join us in our journey to empower users worldwide with free and open-source software!
